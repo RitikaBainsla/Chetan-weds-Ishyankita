@@ -5,3 +5,5 @@ SPECIAL DATES WEBSITE — SCROLL AND WATERMARK FIX
 - Enlarged and vertically balanced the final map section to avoid excessive empty space.
 - The watermark does not block map controls or scratch-card interaction.
 All files are kept in this one folder.
+
+- Removed the Mehendi slide (slide-2.mp4) from the invitation sequence.
